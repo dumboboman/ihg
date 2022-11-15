@@ -1,6 +1,6 @@
 name: all time
 run-name: qwew
-defaults:1
+defaults: on
   run: on
     shell: true
     working-directory: main
